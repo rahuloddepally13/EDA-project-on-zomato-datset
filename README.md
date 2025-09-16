@@ -1,9 +1,9 @@
-🍽️ Exploratory Data Analysis (EDA) on Zomato Dataset
+#🍽️ Exploratory Data Analysis (EDA) on Zomato Dataset
 📌 Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Zomato Restaurants Dataset to uncover meaningful insights about the food industry. The analysis helps understand restaurant ratings, cuisines, cost distribution, and location-based trends using Python libraries.
 
-🎯 Objectives
+##🎯 Objectives
 
 Clean and preprocess raw data (handle null values, duplicates, and data types).
 
@@ -13,7 +13,7 @@ Analyze location-wise restaurant availability.
 
 Visualize insights with charts and plots for better data storytelling.
 
-📊 Key Insights
+##📊 Key Insights
 
 Distribution of ratings across restaurants.
 
@@ -23,7 +23,7 @@ Cost for two analysis by location.
 
 Region-wise availability and density of restaurants.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python
 
@@ -31,9 +31,9 @@ Pandas, NumPy – Data Cleaning & Processing
 
 Matplotlib, Seaborn – Data Visualization
 
-Jupyter Notebook
+google collab
 
-📂 Repository Contents
+##📂 Repository Contents
 
 Zomato_EDA.ipynb → google collab with full analysis
 
